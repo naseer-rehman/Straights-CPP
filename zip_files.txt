@@ -1,0 +1,1 @@
+Makefile main.cc card.cc card.h deck.cc deck.h straights_move.h straights_move.cc straightts_move_type.cc straights_move_type.h player.h player.cc human_player.h human_player.cc
